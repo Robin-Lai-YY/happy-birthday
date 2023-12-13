@@ -3,7 +3,7 @@
   "name": "登登",
   "greetingText": "这里是你的好homie 冰冰🧊",
   "wishText": "祝你早日成为苦逼打工人🧑‍💼",
-  "imagePath": "img/lydia2.png",
+  "imagePath": "img/pic.jpg",
   "text1": "今天是你的生日，好耶😆 :D",
   "textInChatBox": "生日快乐！！！🎂",
   "sendButtonLabel": "Send",
@@ -18,6 +18,6 @@
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
   "outroText": "mua😚",
-  "replayText": "",
+  "replayText": "找工作需要有一个个人网站嗷",
   "outroSmiley": ":)"
 }
